@@ -12,3 +12,5 @@ npm-debug.log
 yarn-error.log
 .env
 .env.develop
+run.sh
+server.log
