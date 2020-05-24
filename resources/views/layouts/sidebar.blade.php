@@ -45,13 +45,6 @@
                 </li>
             @endforeach
 
-            <div class="submit-tag">
-                <a href="/about">
-                    <i class="linecons-heart"></i>
-                    <span class="tooltip-blue">关于本站</span>
-                    <span class="label label-Primary pull-right hidden-collapsed">♥︎</span>
-                </a>
-            </div>
         </ul>
     </div>
 </div>
