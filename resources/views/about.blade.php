@@ -12,7 +12,7 @@
                 </a>
             </div>
             <div class="navbar-mobile-clear"></div>
-            <a href="https://github.com/hui-ho/WebStack-Laravel" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+            <a href="https://github.com/bsll/WebStack-Laravel" target="_blank"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
         </div>
     </nav>
     <div class="page-container">
@@ -45,9 +45,9 @@
                                             </a>
                                             <div class="xe-comment">
                                                 <a href="#" class="xe-user-name overflowClip_1">
-                                                    <strong>Designer. hui-ho.</strong>
+                                                    <strong>Designer. bsll.</strong>
                                                 </a>
-                                                <p class="overflowClip_2"> hui-ho@outlook.com</p>
+                                                <p class="overflowClip_2">gaomnghui@gmail.com</p>
                                             </div>
                                         </div>
                                     </div>
@@ -58,7 +58,7 @@
                                             <br />
                                             <blockquote>
                                                 <p>
-                                                    这是一个公益项目，而且是<a href="https://github.com/hui-ho/WebStack-Laravel"> 开源 </a>的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过邮件与我联系，欢迎与我交流分享。
+                                                    这是一个公益项目，而且是<a href="https://github.com/bsll/WebStack-Laravel"> 开源 </a>的。你也可以拿来制作自己的网址导航。如果你有更好的想法，可以通过邮件与我联系，欢迎与我交流分享。
                                                 </p>
                                             </blockquote>
                                         </div>

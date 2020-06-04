@@ -17,8 +17,8 @@
             <div class="col-md-12" style="font-size:20px;">
                 <h2>关于作者</h2>
                 <br>
-                <p>GitHub 地址：<a href="https://github.com/hui-ho">请看</a></p>
-                <p>E-mail 地址：hui-ho@outlook.com</p>
+                <p>GitHub 地址：<a href="https://github.com/bsll">请看</a></p>
+                <p>E-mail 地址：gaomnghui@gmail.com</p>
                 <p>如果你有更好的想法，可以通过邮件与我联系，欢迎与我交流分享。</p>
             </div>
         </div>
