@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="zh">
 
-@include('layouts.header')
 
 <body class="page-body boxed-container">
     <nav class="navbar horizontal-menu navbar-fixed-top">
@@ -71,7 +70,6 @@
                     </div>
                 </div>
             </div>
-            @include('layouts.footer')
         </div>
     </div>
 </body>
