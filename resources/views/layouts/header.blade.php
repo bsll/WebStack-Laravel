@@ -20,11 +20,11 @@
     <meta property="og:url" content="http://www.996LEGAL.COM/">
     <meta property="og:title" content="996LEGAL - 收集国内外优秀机器学习网站,深度学习网站,最新AI咨询、算法工具、sota论文、课程学习、笔试面试、算法竞赛、大数据竞赛 - 996legal">
     <meta property="og:description" content="算法咨询,算法论文,算法比赛,大数据竞赛,算法学习,AI行业咨询,算法笔试面试,网址导航,算法网站导航,算法工程师网址大全,算法工程师导航 www.996legal.com">
-    <meta property="og:image" content="{{ asset('img/webstack_banner_cn.png') }}">
+
     <meta property="og:site_name" content="996legal - 收集国内外优秀机器学习网站,深度学习网站,大数据竞赛,最新AI咨询,算法工具、sota论文、课程学习、笔试面试、算法竞赛 www.996legal.com">
     <!-- / Twitter Cards -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="996legal - 收集国内外优秀机器学习网站,深度学习网站,最新AI咨询、算法工具、sota论文、课程学习、笔试面试、算法竞赛，大数据竞赛，定时更新分享书签。www.996legal.com">
     <meta name="twitter:description" content=" 收集国内外优秀机器学习网站,深度学习网站,最新AI咨询、算法工具、sota论文、课程学习、笔试面试、算法竞赛，大数据竞赛,www.996legal.com">
-    <meta property="og:image" content="{{ asset('img/webstack_banner_cn.png') }}">
+
 </head>
